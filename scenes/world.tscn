@@ -26,3 +26,11 @@ centered = false
 
 [node name="Player" parent="." unique_id=1826159199 instance=ExtResource("4_k0juu")]
 position = Vector2(133, 101)
+
+[node name="Player2" parent="." unique_id=1057847226 instance=ExtResource("4_k0juu")]
+position = Vector2(174, 89)
+control_scheme = 1
+
+[node name="Player3" parent="." unique_id=542553508 instance=ExtResource("4_k0juu")]
+position = Vector2(200, 127)
+control_scheme = 2
