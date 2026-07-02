@@ -86,6 +86,7 @@ height = 18.0
 
 [node name="Player" type="CharacterBody2D" unique_id=1826159199]
 script = ExtResource("1_yewv4")
+control_scheme = null
 speed = 80.0
 
 [node name="PlayerSprite" type="Sprite2D" parent="." unique_id=84356516]
