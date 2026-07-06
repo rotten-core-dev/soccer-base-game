@@ -1,7 +1,7 @@
 class_name PlayerStateMoving
 extends PlayerState
 
-func _process(_delta: float) -> void:
+func _physics_process(_delta: float) -> void:
 	# check here for when looking at switching player issue
 	if player.control_scheme == Player.ControlScheme.CPU:
 		pass # process AI movement

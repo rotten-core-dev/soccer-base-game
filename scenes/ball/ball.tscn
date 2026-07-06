@@ -82,6 +82,7 @@ position = Vector2(0, -5)
 shape = SubResource("CircleShape2D_5bmml")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=2013329921]
+unique_name_in_owner = true
 libraries/ = SubResource("AnimationLibrary_yjhvv")
 autoplay = &"idle"
 

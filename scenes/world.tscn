@@ -41,3 +41,5 @@ control_scheme = 2
 
 [node name="Ball" parent="ActorsContainer" unique_id=1679723086 instance=ExtResource("5_71j4m")]
 position = Vector2(165, 121)
+dribble_frequency = 10.0
+dribble_intensity = 3.0
